@@ -3,6 +3,7 @@ import 'package:ditonton/common/constants.dart';
 import 'package:ditonton/presentation/pages/now_airing_tv_show_page.dart';
 import 'package:ditonton/presentation/pages/popular_tv_show_page.dart';
 import 'package:ditonton/presentation/pages/top_rated_show_page.dart';
+import 'package:ditonton/presentation/pages/tv_series_detail_page.dart';
 import 'package:ditonton/presentation/provider/tv_show_list_notifier.dart';
 import 'package:ditonton/presentation/widgets/build_sub_heading.dart';
 import 'package:flutter/material.dart';
@@ -172,7 +173,11 @@ class TvShowList extends StatelessWidget {
               padding: EdgeInsets.all(8),
               child: InkWell(
                 onTap: () {
-
+                  Navigator.pushNamed(
+                      context,
+                      TvSeriesDetailPage.ROUTE_NAME,
+                    arguments: tvShow.id
+                  );
                 },
                 child: ClipRRect(
                   borderRadius: BorderRadius.all(Radius.circular(16)),

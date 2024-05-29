@@ -2,6 +2,7 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:ditonton/common/constants.dart';
 import 'package:ditonton/domain/entities/movie.dart';
 import 'package:ditonton/presentation/pages/about_page.dart';
+import 'package:ditonton/presentation/pages/home_tv_show_page.dart';
 import 'package:ditonton/presentation/pages/movie_detail_page.dart';
 import 'package:ditonton/presentation/pages/popular_movies_page.dart';
 import 'package:ditonton/presentation/pages/search_page.dart';
@@ -49,14 +50,14 @@ class _HomeMoviePageState extends State<HomeMoviePage> {
               leading: Icon(Icons.movie),
               title: Text('Movies'),
               onTap: () {
-                Navigator.pop(context, true);
+                Navigator.pop(context);
               },
             ),
             ListTile(
               leading: Icon(Icons.tv),
               title: Text('TV Show'),
               onTap: () {
-                Navigator.pop(context, false);
+                Navigator.pushReplacementNamed(context, HomeTvShowPage.ROUTE_NAME);
               },
             ),
             ListTile(

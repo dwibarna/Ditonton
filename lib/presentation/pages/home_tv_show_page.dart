@@ -1,5 +1,6 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:ditonton/common/constants.dart';
+import 'package:ditonton/presentation/pages/home_movie_page.dart';
 import 'package:ditonton/presentation/pages/now_airing_tv_show_page.dart';
 import 'package:ditonton/presentation/pages/popular_tv_show_page.dart';
 import 'package:ditonton/presentation/pages/search_page.dart';
@@ -16,6 +17,7 @@ import '../../domain/entities/tv_show.dart';
 import 'about_page.dart';
 
 class HomeTvShowPage extends StatefulWidget {
+  static const ROUTE_NAME = '/home-tv';
   @override
   State<HomeTvShowPage> createState() => _HomeTvShowPageState();
 }
@@ -38,14 +40,14 @@ class _HomeTvShowPageState extends State<HomeTvShowPage> {
               leading: Icon(Icons.movie),
               title: Text('Movies'),
               onTap: () {
-                Navigator.pop(context, true);
+                Navigator.pushReplacementNamed(context, HomeMoviePage.ROUTE_NAME);
               },
             ),
             ListTile(
               leading: Icon(Icons.tv),
               title: Text('TV Show'),
               onTap: () {
-                Navigator.pop(context, false);
+                Navigator.pop(context);
               },
             ),
             ListTile(

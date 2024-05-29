@@ -26,7 +26,8 @@ class _TvSeriesDetailPageState extends State<TvSeriesDetailPage> {
   void initState() {
     Future.microtask(() {
       Provider.of<TvDetailNotifier>(context, listen: false)
-          .fetchTvSeriesDetail(widget.id);
+          ..fetchTvSeriesDetail(widget.id)
+          ..loadTvWatchListState(widget.id);
     });
     super.initState();
   }
@@ -43,8 +44,10 @@ class _TvSeriesDetailPageState extends State<TvSeriesDetailPage> {
           } else if(provider.state == RequestState.Loaded) {
             final tvSeries = provider.tvDetail;
             return SafeArea(
-                child: DetailContent(tvDetail: tvSeries,
+                child: DetailContent(
+                  tvDetail: tvSeries,
                   listRecommendations: provider.list,
+                  stateWatchlist: provider.stateWatchlist,
                 )
             );
           } else {
@@ -59,8 +62,9 @@ class _TvSeriesDetailPageState extends State<TvSeriesDetailPage> {
 class DetailContent extends StatelessWidget {
   final TvDetail tvDetail;
   final List<TvShow> listRecommendations;
+  final bool stateWatchlist;
 
-  const DetailContent({Key? key, required this.tvDetail, required this.listRecommendations}) : super(key: key);
+  const DetailContent({Key? key, required this.tvDetail, required this.listRecommendations, required this.stateWatchlist}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -68,7 +72,7 @@ class DetailContent extends StatelessWidget {
     return Stack(
       children: [
         CachedNetworkImage(
-            imageUrl: 'https://image.tmdb.org/t/p/w500${tvDetail.posterPath}',
+          imageUrl: 'https://image.tmdb.org/t/p/w500${tvDetail.posterPath}',
           width: screenWidth,
           placeholder: (context, url) => Center(
             child: CircularProgressIndicator(),
@@ -103,13 +107,36 @@ class DetailContent extends StatelessWidget {
                                 style: kHeading5,
                               ),
                               ElevatedButton(
-                                  onPressed: () {
-                                    //todo save list nanti
+                                  onPressed: () async {
+                                    var provider = Provider.of<TvDetailNotifier>(context, listen: false);
+                                    final message = provider.watchlistMessage;
+
+                                    if (!stateWatchlist) {
+                                      await provider.addTvWatchList(tvDetail);
+                                    } else {
+                                      await provider.removeTvWatchList(tvDetail);
+                                    }
+                                    if (
+                                    message == TvDetailNotifier.watchlistAddSuccessMessage ||
+                                        message == TvDetailNotifier.watchlistRemoveSuccessMessage
+                                    ) {
+                                      ScaffoldMessenger.of(context).showSnackBar(
+                                        SnackBar(content: Text(message))
+                                      );
+                                    } else {
+                                      showDialog(context: context, builder: (context) {
+                                        return AlertDialog(
+                                          content: Text(message),
+                                        );
+                                      });
+                                    }
                                   },
                                   child: Row(
                                     mainAxisSize: MainAxisSize.min,
                                     children: [
-                                      Icon(Icons.add),
+                                      stateWatchlist
+                                          ? Icon(Icons.check)
+                                          : Icon(Icons.add),
                                       Text('Watchlist')
                                     ],
                                   )

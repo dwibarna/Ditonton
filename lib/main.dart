@@ -24,6 +24,7 @@ import 'package:ditonton/presentation/provider/tv_detail_notifier.dart';
 import 'package:ditonton/presentation/provider/tv_search_notifier.dart';
 import 'package:ditonton/presentation/provider/tv_show_list_notifier.dart';
 import 'package:ditonton/presentation/provider/watchlist_movie_notifier.dart';
+import 'package:ditonton/presentation/provider/watchlist_tv_notifier.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -39,6 +40,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MultiProvider(
       providers: [
+        ChangeNotifierProvider(
+            create: (_) => di.locator<WatchlistTvNotifier>()
+        ),
         ChangeNotifierProvider(
             create: (_) => di.locator<TvSearchNotifier>()
         ),
@@ -118,7 +122,8 @@ class MyApp extends StatelessWidget {
               final type = settings.arguments as String;
               return CupertinoPageRoute(builder: (_) => SearchPage(type: type,));
             case WatchlistMoviesPage.ROUTE_NAME:
-              return MaterialPageRoute(builder: (_) => WatchlistMoviesPage());
+              final type = settings.arguments as String;
+              return MaterialPageRoute(builder: (_) => WatchlistMoviesPage(type: type,));
             case AboutPage.ROUTE_NAME:
               return MaterialPageRoute(builder: (_) => AboutPage());
             default:

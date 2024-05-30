@@ -26,7 +26,7 @@ class TvShowRepositoryImpl implements TvShowRepository {
     } on ServerException {
       return Left(ServerFailure(''));
     } on SocketException {
-      return Left(ConnectionFailure('failed to connect to the network'));
+      return Left(ConnectionFailure('Failed to connect to the network'));
     }
   }
 

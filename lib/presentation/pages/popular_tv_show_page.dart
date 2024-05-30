@@ -31,9 +31,10 @@ class _PopularTvShowPageState extends State<PopularTvShowPage> {
         child: Consumer<PopularTvShowsNotifier>(
           builder: (context, data, _) {
             if (data.state == RequestState.Loading) {
-              return CircularProgressIndicator();
+              return Center(child: CircularProgressIndicator());
             } else if (data.state == RequestState.Loaded) {
               return ListView.builder(
+                itemCount: data.list.length,
                   itemBuilder: (context, idx) {
                     final tvShow = data.list[idx];
                     return TvSeriesCard(tvShow);

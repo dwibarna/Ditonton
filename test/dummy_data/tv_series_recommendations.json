@@ -1,0 +1,469 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/mpsYIytXhDXjI9yYC1Fp1S3PxsS.jpg",
+      "id": 46260,
+      "original_name": "ナルト",
+      "overview": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
+      "poster_path": "/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "name": "Naruto",
+      "original_language": "ja",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "popularity": 270.255,
+      "first_air_date": "2002-10-03",
+      "vote_average": 8.357,
+      "vote_count": 5360,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "backdrop_path": "/3XlKckxPEa4lg5w4vHnyE35PUyI.jpg",
+      "id": 70881,
+      "original_name": "BORUTO-ボルト- NARUTO NEXT GENERATIONS",
+      "overview": "The life of the shinobi is beginning to change. Boruto Uzumaki, son of Seventh Hokage Naruto Uzumaki, has enrolled in the Ninja Academy to learn the ways of the ninja. Now, as a series of mysterious events unfolds, Boruto’s story is about to begin!",
+      "poster_path": "/e0B6i48kxdRkMcK4tR4YNfXGWOc.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "name": "Boruto: Naruto Next Generations",
+      "original_language": "ja",
+      "genre_ids": [
+        10759,
+        16,
+        35,
+        18
+      ],
+      "popularity": 86.276,
+      "first_air_date": "2017-04-05",
+      "vote_average": 7.882,
+      "vote_count": 2358,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "id": 37854,
+      "original_name": "ワンピース",
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "poster_path": "/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "name": "One Piece",
+      "original_language": "ja",
+      "genre_ids": [
+        10759,
+        35,
+        16
+      ],
+      "popularity": 138.856,
+      "first_air_date": "1999-10-20",
+      "vote_average": 8.727,
+      "vote_count": 4457,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "backdrop_path": "/3GQKYh6Trm8pxd2AypovoYQf4Ay.jpg",
+      "id": 85937,
+      "original_name": "鬼滅の刃",
+      "overview": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.",
+      "poster_path": "/8rWeMJTPMHnttbyU2em5kIGB1q7.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "name": "Demon Slayer: Kimetsu no Yaiba",
+      "original_language": "ja",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "popularity": 213.772,
+      "first_air_date": "2019-04-06",
+      "vote_average": 8.7,
+      "vote_count": 6055,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "backdrop_path": "/bFKKyCI89Xq98Gul8cGox8K3sZa.jpg",
+      "id": 46298,
+      "original_name": "HUNTER×HUNTER",
+      "overview": "Twelve-year-old Gon Freecss one day discovers that the father he had always been told was dead was alive. His Father, Ging, is a Hunter — a member of society's elite with a license to go anywhere or do almost anything. Gon, determined to follow in his father's footsteps, decides to take the Hunter Examination and eventually find his father to prove himself as a Hunter in his own right. But on the way, he learns that there is more to becoming a Hunter than previously thought, and the challenges that he must face are considered the toughest in the world.",
+      "poster_path": "/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "name": "Hunter x Hunter",
+      "original_language": "ja",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "popularity": 1203.758,
+      "first_air_date": "2011-10-02",
+      "vote_average": 8.619,
+      "vote_count": 1638,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "backdrop_path": "/s0w8JbuNNxL1YgaHeDWih12C3jG.jpg",
+      "id": 63926,
+      "original_name": "ワンパンマン",
+      "overview": "Saitama is a hero who only became a hero for fun. After three years of “special” training, though, he’s become so strong that he’s practically invincible. In fact, he’s too strong — even his mightiest opponents are taken out with a single punch, and it turns out that being devastatingly powerful is actually kind of a bore. With his passion for being a hero lost along with his hair, yet still faced with new enemies every day, how much longer can he keep it going?",
+      "poster_path": "/jbYJuxfZMpYDalkiOnBcCv9TaL.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "name": "One-Punch Man",
+      "original_language": "ja",
+      "genre_ids": [
+        10759,
+        16,
+        35
+      ],
+      "popularity": 133.373,
+      "first_air_date": "2015-10-05",
+      "vote_average": 8.4,
+      "vote_count": 3428,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "backdrop_path": "/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+      "id": 1429,
+      "original_name": "進撃の巨人",
+      "overview": "Several hundred years ago, humans were nearly exterminated by Titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest Titans. Flash forward to the present and the city has not seen a Titan in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as the city walls are destroyed by a Colossal Titan that appears out of thin air. As the smaller Titans flood the city, the two kids watch in horror as their mother is eaten alive. Eren vows that he will murder every single Titan and take revenge for all of mankind.",
+      "poster_path": "/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "name": "Attack on Titan",
+      "original_language": "ja",
+      "genre_ids": [
+        16,
+        10765,
+        10759
+      ],
+      "popularity": 99.348,
+      "first_air_date": "2013-04-07",
+      "vote_average": 8.665,
+      "vote_count": 6081,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "backdrop_path": "/1YMx2eZs8kr32Y2gxrRN9MdPNr.jpg",
+      "id": 12609,
+      "original_name": "ドラゴンボール",
+      "overview": "Long ago in the mountains, a fighting master known as Son Gohan discovered a strange boy whom he named Son Goku. Gohan raised him and trained Goku in martial arts until he died. The young and very strong boy was on his own, but easily managed. Then one day, Goku met a teenage girl named Bulma, whose search for the mystical Dragon Balls brought her to Goku's home. Together, they set off to find all seven and to grant her wish.",
+      "poster_path": "/onCLyCOgszTIyyVs2XKYSkKPOPG.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "name": "Dragon Ball",
+      "original_language": "ja",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "popularity": 27.784,
+      "first_air_date": "1986-02-26",
+      "vote_average": 8.251,
+      "vote_count": 3000,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "backdrop_path": "/cH39aJg9VlEaYo6yY37Iah8RAaz.jpg",
+      "id": 65930,
+      "original_name": "僕のヒーローアカデミア",
+      "overview": "A superhero-admiring boy without any powers enrolls in a prestigious hero academy and learns what it really means to be a hero.",
+      "poster_path": "/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "name": "My Hero Academia",
+      "original_language": "ja",
+      "genre_ids": [
+        10759,
+        16,
+        10765
+      ],
+      "popularity": 112.197,
+      "first_air_date": "2016-04-03",
+      "vote_average": 8.653,
+      "vote_count": 4731,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "backdrop_path": "/oMzQrIwhNNZ0NFVJnFdbkCfZnDT.jpg",
+      "id": 46261,
+      "original_name": "フェアリーテイル",
+      "overview": "Lucy is a 17-year-old girl, who wants to be a full-fledged mage. One day when visiting Harujion Town, she meets Natsu, a young man who gets sick easily by any type of transportation. But Natsu isn't just any ordinary kid, he's a member of one of the world's most infamous mage guilds: Fairy Tail.",
+      "poster_path": "/h50lj7xO65qafNYZCrfQ7ztkMBD.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "name": "Fairy Tail",
+      "original_language": "ja",
+      "genre_ids": [
+        16,
+        10759,
+        35,
+        9648,
+        10765
+      ],
+      "popularity": 78.468,
+      "first_air_date": "2009-10-12",
+      "vote_average": 7.905,
+      "vote_count": 912,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "backdrop_path": "/ydf1CeiBLfdxiyNTpskM0802TKl.jpg",
+      "id": 12971,
+      "original_name": "ドラゴンボールゼット",
+      "overview": "The adventures of Earth's martial arts defender, Son Goku, continue with a new family and the revelation of his alien origins. Now Goku and his allies must defend the planet from an onslaught of new extraterrestrial enemies.",
+      "poster_path": "/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "name": "Dragon Ball Z",
+      "original_language": "ja",
+      "genre_ids": [
+        16,
+        10765,
+        10759
+      ],
+      "popularity": 308.66,
+      "first_air_date": "1989-04-26",
+      "vote_average": 8.327,
+      "vote_count": 4307,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "backdrop_path": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "id": 30984,
+      "original_name": "BLEACH",
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "poster_path": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "name": "Bleach",
+      "original_language": "ja",
+      "genre_ids": [
+        10759,
+        16,
+        10765
+      ],
+      "popularity": 383.628,
+      "first_air_date": "2004-10-05",
+      "vote_average": 8.4,
+      "vote_count": 1744,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "backdrop_path": "/mOlEbXcb6ufRJKogI35KqsSlCfB.jpg",
+      "id": 13916,
+      "original_name": "DEATH NOTE",
+      "overview": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?",
+      "poster_path": "/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "name": "Death Note",
+      "original_language": "ja",
+      "genre_ids": [
+        16,
+        9648,
+        10765
+      ],
+      "popularity": 268.652,
+      "first_air_date": "2006-10-04",
+      "vote_average": 8.638,
+      "vote_count": 3947,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "backdrop_path": "/yJAOi2n0VYBEXdPI1NXv5FiOcBX.jpg",
+      "id": 62715,
+      "original_name": "ドラゴンボール超（スーパー）",
+      "overview": "With Majin Buu defeated half-a-year prior, peace returns to Earth, where Son Goku (now a radish farmer) and his friends now live peaceful lives. However, a new threat appears in the form of Beerus, the God of Destruction. Considered the most terrifying being in the entire universe, Beerus is eager to fight the legendary warrior seen in a prophecy foretold decades ago known as the Super Saiyan God. The series retells the events from the two Dragon Ball Z films, Battle of Gods and Resurrection 'F' before proceeding to an original story about the exploration of alternate universes.",
+      "poster_path": "/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "name": "Dragon Ball Super",
+      "original_language": "ja",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "popularity": 136.236,
+      "first_air_date": "2015-07-05",
+      "vote_average": 8.197,
+      "vote_count": 4854,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "backdrop_path": "/nC74XDzNd2F7hH8q0XqyZfzLV5D.jpg",
+      "id": 62104,
+      "original_name": "七つの大罪",
+      "overview": "The “Seven Deadly Sins”—a group of evil knights who conspired to overthrow the kingdom of Britannia—were said to have been eradicated by the Holy Knights, although some claim that they still live. Ten years later, the Holy Knights have staged a Coup d'état and assassinated the king, becoming the new, tyrannical rulers of the kingdom. Elizabeth, the king's only daughter, sets out on a journey to find the “Seven Deadly Sins,” and to enlist their help in taking back the kingdom.",
+      "poster_path": "/gxTojpKEOtue85EEFlozwRbDXwJ.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "name": "The Seven Deadly Sins",
+      "original_language": "ja",
+      "genre_ids": [
+        10759,
+        16,
+        10765
+      ],
+      "popularity": 34.264,
+      "first_air_date": "2014-10-05",
+      "vote_average": 8.449,
+      "vote_count": 4830,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "backdrop_path": "/xXY9WxE3KxwxftTmJIU8LwY5ojD.jpg",
+      "id": 83100,
+      "original_name": "どろろ",
+      "overview": "A samurai lord has bartered away his newborn son's organs to forty-eight demons in exchange for dominance on the battlefield. Yet, the abandoned infant survives thanks to a medicine man who equips him with primitive prosthetics—lethal ones with which the wronged son will use to hunt down the multitude of demons to reclaim his body one piece at a time, before confronting his father. On his journeys the young hero encounters an orphan who claims to be the greatest thief in Japan.",
+      "poster_path": "/jyFHtqYeVvc2A9nLhFGvM49xGPg.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "name": "Dororo",
+      "original_language": "ja",
+      "genre_ids": [
+        16,
+        10759
+      ],
+      "popularity": 81.882,
+      "first_air_date": "2019-01-07",
+      "vote_average": 8.558,
+      "vote_count": 1100,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "backdrop_path": "/6llzd3LLcMqfNSsi5W1HAGlPdeS.jpg",
+      "id": 61374,
+      "original_name": "東京喰種トーキョーグール",
+      "overview": "Ken Kaneki, a bookworm college student, meets Rize, a girl his own age with whom he shares many interests.",
+      "poster_path": "/y2roOFsew9nJKKVwwJCHSyzgpK9.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "name": "Tokyo Ghoul",
+      "original_language": "ja",
+      "genre_ids": [
+        16,
+        18,
+        10765
+      ],
+      "popularity": 161.08,
+      "first_air_date": "2014-07-04",
+      "vote_average": 8.34,
+      "vote_count": 2188,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "backdrop_path": "/5L30PxyHlEx68RVOmcdEAepY0xb.jpg",
+      "id": 60808,
+      "original_name": "ノーゲーム･ノーライフ",
+      "overview": "This is a surreal comedy that follows Sora and Shiro, shut-in NEET siblings and the online gamer duo behind the legendary username \"Kuuhaku.\" They view the real world as just another lousy game; however, a strange e-mail challenging them to a chess match changes everything—the brother and sister are plunged into an otherworldly realm where they meet Tet, the God of Games.\n\nThe mysterious god welcomes the two to Disboard, a world where all forms of conflict are settled through high-stake games. This system works thanks to a fundamental rule wherein each party must wager something they deem to be of equal value to the other party's wager. In this strange land where the very idea of humanity is reduced to child’s play, the indifferent genius gamer duo of Sora and Shiro have finally found a real reason to keep playing games: to unite the sixteen races of Disboard, defeat Tet, and become the gods of this new, gaming-is-everything world.",
+      "poster_path": "/kN4BhRDbP3b1nuxpYC443jVLEh5.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "name": "No Game No Life",
+      "original_language": "ja",
+      "genre_ids": [
+        16,
+        10765,
+        10759,
+        35
+      ],
+      "popularity": 61.296,
+      "first_air_date": "2014-04-09",
+      "vote_average": 8.17,
+      "vote_count": 618,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "backdrop_path": "/tKh3pc5MEjCIGV7hSJX76qi8aGA.jpg",
+      "id": 76121,
+      "original_name": "ダーリン・イン・ザ・フランキス",
+      "overview": "The story is set in the distant future. The land is ruined, and humanity establishes the mobile fort city Plantation. Pilots produced inside Plantation live in Mistilteinn, also know as the \"birdcage.\" Children live there knowing nothing of the outside world or the freedom of the sky. Their lives consist of battling to carry out missions. Their enemies are mysterious giant lifeforms known as Kyouryuu, and the children pilot robots called Franxx to face off against them. For the children, riding the Franxx proves their existence.\n\nA boy named Hiro is called Code:016, and he was once known as a prodigy. However, he has fallen behind, and his existence seems unnecessary. Not piloting a Franxx is the same as ceasing to exist. One day, a mysterious girl known as \"Zero Two\" appears before him. Two horns grow out of her head.",
+      "poster_path": "/oO5tir7lV4slZHTyhW8lTFrgyif.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "name": "DARLING in the FRANXX",
+      "original_language": "ja",
+      "genre_ids": [
+        16
+      ],
+      "popularity": 91.767,
+      "first_air_date": "2018-01-13",
+      "vote_average": 8.577,
+      "vote_count": 1733,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "backdrop_path": "/hmrNfrUl3FFaymDj6Iw5oKQjIs2.jpg",
+      "id": 33880,
+      "original_name": "The Legend of Korra",
+      "overview": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on her quest to become a fully realized Avatar. In this story, the Avatar struggles to find balance within herself.",
+      "poster_path": "/kBvZQjzK7u6Sdy20sSwXTHW4Wn9.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "name": "The Legend of Korra",
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        10759,
+        10765,
+        18
+      ],
+      "popularity": 372.807,
+      "first_air_date": "2012-04-14",
+      "vote_average": 8.255,
+      "vote_count": 2000,
+      "origin_country": [
+        "US"
+      ]
+    }
+  ],
+  "total_pages": 2,
+  "total_results": 40
+}

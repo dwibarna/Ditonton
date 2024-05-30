@@ -31,7 +31,7 @@ class _NowAiringTvShowPageState extends State<NowAiringTvShowPage> {
         child: Consumer<OnAiringTvShowsNotifier>(
           builder: (context, data, _) {
             if (data.state == RequestState.Loading) {
-              return CircularProgressIndicator();
+              return Center(child: CircularProgressIndicator());
             } else if (data.state == RequestState.Loaded) {
               return ListView.builder(
                 itemBuilder: (context, idx) {

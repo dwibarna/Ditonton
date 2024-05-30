@@ -1,0 +1,416 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/nmg2lY4QuyXQrAnrC2lRblK5rT6.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1416,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Grey's Anatomy",
+      "overview": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+      "popularity": 2495.088,
+      "poster_path": "/jcEl8SISNfGdlQFwLzeEtsjDvpw.jpg",
+      "first_air_date": "2005-03-27",
+      "name": "Grey's Anatomy",
+      "vote_average": 8.238,
+      "vote_count": 9977
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rtyO6Y2Ij2V4TjE44k0qihx0aJS.jpg",
+      "genre_ids": [
+        10764
+      ],
+      "id": 210479,
+      "origin_country": [
+        "CA"
+      ],
+      "original_language": "fr",
+      "original_name": "Survivor Québec",
+      "overview": "For over 40 days days, 20 players isolated on an exotic island in the Philippines will face extreme mental and physical challenges. They will have to use strategy to survive the eliminations in order to become the sole survivor and get their hands on the $100,000 grand prize!",
+      "popularity": 2359.256,
+      "poster_path": "/sqhc3o5Izz5BcWAaCEzyYiaMN5x.jpg",
+      "first_air_date": "2023-04-02",
+      "name": "Survivor Québec",
+      "vote_average": 6.643,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eWF3oRyL4QWaidN9F4uvM7cBJUV.jpg",
+      "genre_ids": [
+        10766
+      ],
+      "id": 206559,
+      "origin_country": [
+        "ZA"
+      ],
+      "original_language": "af",
+      "original_name": "Binnelanders",
+      "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+      "popularity": 2316.451,
+      "poster_path": "/v9nGSRx5lFz6KEgfmgHJMSgaARC.jpg",
+      "first_air_date": "2005-10-13",
+      "name": "Binnelanders",
+      "vote_average": 5.446,
+      "vote_count": 56
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uCY1j1YqfDWRbbS7hJwd9szX1sJ.jpg",
+      "genre_ids": [
+        10766,
+        18,
+        35
+      ],
+      "id": 237480,
+      "origin_country": [
+        "BR"
+      ],
+      "original_language": "pt",
+      "original_name": "No Rancho Fundo",
+      "overview": "",
+      "popularity": 2309.098,
+      "poster_path": "/eONkvEahSQJan1HTzWJKjvaMe29.jpg",
+      "first_air_date": "2024-04-15",
+      "name": "No Rancho Fundo",
+      "vote_average": 5.083,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yWVqYVOUcS6vu22v4BPXKJW10m5.jpg",
+      "genre_ids": [
+        10764,
+        10751
+      ],
+      "id": 206679,
+      "origin_country": [
+        "CZ"
+      ],
+      "original_language": "cs",
+      "original_name": "Na lovu",
+      "overview": "Na Lovu is a Czech game-show, based on the license of the popular global format The Chase. A heart-racing quiz show where four competitors must pit their wits and face off against Lovec (the Chaser), a ruthless quiz genius determined to stop them from winning cash prizes.",
+      "popularity": 2153.395,
+      "poster_path": "/udJ1wVuOwFg1q6UBcQGwcpcdIYF.jpg",
+      "first_air_date": "2021-08-16",
+      "name": "Na lovu",
+      "vote_average": 8.0,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/s92ZvqE4gWOrZq60AKvhgZZxDY4.jpg",
+      "genre_ids": [
+        10764
+      ],
+      "id": 240909,
+      "origin_country": [
+        "CO"
+      ],
+      "original_language": "es",
+      "original_name": "La Casa de los Famosos Colombia",
+      "overview": "",
+      "popularity": 2148.19,
+      "poster_path": "/lCn94cscNlFToXIbIWRSGBqb20Q.jpg",
+      "first_air_date": "2024-02-11",
+      "name": "La Casa de los Famosos Colombia",
+      "vote_average": 6.3,
+      "vote_count": 20
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ftxlyBqbS4qOZK3HmkIrZ4rSxGQ.jpg",
+      "genre_ids": [
+        10764
+      ],
+      "id": 21926,
+      "origin_country": [
+        "DE"
+      ],
+      "original_language": "de",
+      "original_name": "Big Brother",
+      "overview": "",
+      "popularity": 1976.37,
+      "poster_path": "/c9M6TslLmEHei1dFkp8PTnts3sF.jpg",
+      "first_air_date": "2000-03-01",
+      "name": "Big Brother",
+      "vote_average": 3.0,
+      "vote_count": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eGoX4DFXFtFgvBAdAv3pQSxyHDi.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 234512,
+      "origin_country": [
+        "PT"
+      ],
+      "original_language": "pt",
+      "original_name": "Papel Principal",
+      "overview": "At the center of this story is Aurora Guerra, a popular actress who became a star in the teen series \"The Chosen Ones\" at an early age. Irene and Julio, Aurora's parents, signed her up for a casting several years ago and the matriarch, realizing that the decision was between her and another girl, managed to play the casting director in Aurora's favor. Lúcia has the same dream: to be a successful actress and decides to apply for the casting as well, but she soon realizes Irene's scheme and decides to confront her. After a violent argument between the two, Lúcia ends up having an accident that almost took her life and killed her chance of becoming an actress, due to the physical disabilities she was left with. Twenty years later, Lucia is determined to take revenge. The young woman wants to get back what she believes Aurora has taken from her, far from imagining that she is just a victim of Irene's evil deeds.",
+      "popularity": 1957.423,
+      "poster_path": "/t0ZWTCP451IgzMgHSPDBenpLG1W.jpg",
+      "first_air_date": "2023-09-25",
+      "name": "Leading Role",
+      "vote_average": 5.667,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qZ7CdO7rkH0KyCxvZBoP4Mm2cQL.jpg",
+      "genre_ids": [
+        10767,
+        99
+      ],
+      "id": 132544,
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "위대한 수업, 그레이트 마인즈",
+      "overview": "",
+      "popularity": 1956.196,
+      "poster_path": "/lj46PSaBziqCqbGXlmnXN325biA.jpg",
+      "first_air_date": "2021-08-30",
+      "name": "Great Minds",
+      "vote_average": 5.143,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i8iqYtAy9qcO5RSrA1f6fY1n6SN.jpg",
+      "genre_ids": [
+        10766
+      ],
+      "id": 235484,
+      "origin_country": [
+        "ZA"
+      ],
+      "original_language": "af",
+      "original_name": "Suidooster",
+      "overview": "Suidooster is a South African television soap opera produced by Suidooster Films which revolves around a matriarch, her family, friends and the people of Suidooster, a small shopping and business centre in the fictional Cape Town suburb of Ruiterbosch.",
+      "popularity": 1911.75,
+      "poster_path": "/naCgSiacvV685kait6fBvhVhdce.jpg",
+      "first_air_date": "2015-11-16",
+      "name": "Suidooster",
+      "vote_average": 8.333,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2Bkqjc9tNWo3KLr1aRYyJ7vMQtM.jpg",
+      "genre_ids": [
+        10764
+      ],
+      "id": 235493,
+      "origin_country": [
+        "NL"
+      ],
+      "original_language": "nl",
+      "original_name": "De Bondgenoten",
+      "overview": "",
+      "popularity": 1805.999,
+      "poster_path": "/wsipinibYxrZhpkQ6MKxIMgL0hv.jpg",
+      "first_air_date": "2023-10-22",
+      "name": "De Bondgenoten",
+      "vote_average": 6.3,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+      "genre_ids": [
+        10763
+      ],
+      "id": 94722,
+      "origin_country": [
+        "DE"
+      ],
+      "original_language": "de",
+      "original_name": "Tagesschau",
+      "overview": "German daily news program, the oldest still existing program on German television.",
+      "popularity": 1803.314,
+      "poster_path": "/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+      "first_air_date": "1952-12-26",
+      "name": "Tagesschau",
+      "vote_average": 6.808,
+      "vote_count": 200
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u1CqlLecfpcuOaugKi3ol9gDQHJ.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 95842,
+      "origin_country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "original_name": "庆余年",
+      "overview": "Zhang Qing, a present-day college student in culture and history major wants to study in professor Ye's postgraduate class, so he decides to write a historical fiction to elaborate his perspective of analyzing ancient literature history with modern concept. In the fiction, Zhang himself acts as a young man Fan Xian with mysterious life who lives in a remote seaside town of Kingdom Qing in his childhood, under the help of a mysterious mentor and a blindfolded watchman. Fan goes to the capital when he grows up, where he experiences plenty of ordeal and temper. Fan persists in adhering the rule of justice and goodness and lives his own glorious life.",
+      "popularity": 1699.439,
+      "poster_path": "/vlHJfLsduZiILN8eYdN57kHZTcQ.jpg",
+      "first_air_date": "2019-11-26",
+      "name": "Joy of Life",
+      "vote_average": 7.969,
+      "vote_count": 65
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5S0SI4NjyMji05OPL0GOZ4BsiMh.jpg",
+      "genre_ids": [
+        10764
+      ],
+      "id": 136166,
+      "origin_country": [
+        "NL"
+      ],
+      "original_language": "nl",
+      "original_name": "Lang Leve de Liefde",
+      "overview": "",
+      "popularity": 1665.087,
+      "poster_path": "/9lpvvzEl5kViIc2vUJG4QKzj2ds.jpg",
+      "first_air_date": "2020-01-20",
+      "name": "Lang Leve de Liefde",
+      "vote_average": 5.6,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yYNa1nqvNK94xZz3eKyfvZdAvPi.jpg",
+      "genre_ids": [
+        10766,
+        18
+      ],
+      "id": 112470,
+      "origin_country": [
+        "FR"
+      ],
+      "original_language": "fr",
+      "original_name": "Ici tout commence",
+      "overview": "",
+      "popularity": 1629.656,
+      "poster_path": "/yuTHx38jpogXovMhqNatvozigMJ.jpg",
+      "first_air_date": "2020-11-02",
+      "name": "Here it all begins",
+      "vote_average": 7.218,
+      "vote_count": 39
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mDK2cWErxVyHwnSOCCiXBcIjS3K.jpg",
+      "genre_ids": [
+        10763,
+        35
+      ],
+      "id": 2224,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Daily Show",
+      "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "popularity": 1615.985,
+      "poster_path": "/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+      "first_air_date": "1996-07-22",
+      "name": "The Daily Show",
+      "vote_average": 6.3,
+      "vote_count": 503
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vSrR7pq1wtPw85XpiOrdNcYdtUb.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 239526,
+      "origin_country": [
+        "ES"
+      ],
+      "original_language": "es",
+      "original_name": "Sueños de libertad",
+      "overview": "",
+      "popularity": 1591.02,
+      "poster_path": "/95RVeMWMvk97PBW0msryIJC32XD.jpg",
+      "first_air_date": "2024-02-25",
+      "name": "Sueños de libertad",
+      "vote_average": 5.8,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hpZ5VJP1MvQjuFUMORuAoDFAH30.jpg",
+      "genre_ids": [
+        35,
+        10766,
+        10759
+      ],
+      "id": 222289,
+      "origin_country": [
+        "BR"
+      ],
+      "original_language": "pt",
+      "original_name": "Família é Tudo",
+      "overview": "",
+      "popularity": 1530.451,
+      "poster_path": "/tDbJuSfVhf3ZnxiJrXlXEALyAz5.jpg",
+      "first_air_date": "2024-03-04",
+      "name": "Família é Tudo",
+      "vote_average": 6.333,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ms6ldaiHeAkJxicCHs5b4IULhrn.jpg",
+      "genre_ids": [
+        10751
+      ],
+      "id": 30763,
+      "origin_country": [
+        "FR"
+      ],
+      "original_language": "fr",
+      "original_name": "Le Juste Prix",
+      "overview": "Le Juste Prix is a French adaptation of the American game show The Price Is Right that airs on TF1. It first premiered in 1988 and ran until the original version was canceled in 2001. In 2002 a brief sequel, Le Juste Euro, ran on France 2 and was hosted by Patrice Laffont, it only ran for two episodes. On July 27, 2009 a new version of Le Juste Prix premiered on TF1. The current version is hosted by Vincent Lagaf with Gerard Vivès as announcer.",
+      "popularity": 1529.804,
+      "poster_path": "/sNJmEmhAjL9tTt3zUVY4XF0OMIo.jpg",
+      "first_air_date": "1987-12-13",
+      "name": "Le Juste Prix",
+      "vote_average": 5.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bEKRyT7WN5TjFKv0JTWI2cyNlak.jpg",
+      "genre_ids": [
+        10766,
+        18
+      ],
+      "id": 223365,
+      "origin_country": [
+        "BR"
+      ],
+      "original_language": "pt",
+      "original_name": "Renascer",
+      "overview": "After making a pact with Jequitibá, José Inocêncio becomes a mythical figure, known as the most successful cocoa farmer in the region. While still young, he wins the heart of Maria Santa. Their intense passion results in four children: José Augusto, José Bento, José Venâncio, and the youngest, João Pedro, who never had the opportunity to know his mother, as she dies while giving birth to him. This tragedy fuels José Inocêncio’s anger, blaming João Pedro for the loss of his great love. Throughout their lives, indifference and resentment mark the relationship between the father and his youngest son. As if the past weren’t enough, years later, the arrival of the mysterious Mariana puts all these emotions to the test when both father and son fall in love with the same woman. This situation reawakens feelings that were either dormant or previously unknown to them.",
+      "popularity": 1487.559,
+      "poster_path": "/kUWvvMkNIf21UUDmHjYw55v6o7C.jpg",
+      "first_air_date": "2024-01-22",
+      "name": "Rebirth",
+      "vote_average": 7.8,
+      "vote_count": 13
+    }
+  ],
+  "total_pages": 55,
+  "total_results": 1087
+}

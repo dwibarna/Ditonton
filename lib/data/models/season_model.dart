@@ -2,14 +2,14 @@ import 'package:ditonton/domain/entities/season.dart';
 import 'package:equatable/equatable.dart';
 
 class SeasonModel extends Equatable {
-  final DateTime airDate;
-  final int episodeCount;
-  final int id;
-  final String name;
-  final String overview;
-  final String posterPath;
-  final int seasonNumber;
-  final double voteAverage;
+  final DateTime? airDate;
+  final int? episodeCount;
+  final int? id;
+  final String? name;
+  final String? overview;
+  final String? posterPath;
+  final int? seasonNumber;
+  final double? voteAverage;
 
   SeasonModel({
     required this.airDate,
@@ -23,7 +23,7 @@ class SeasonModel extends Equatable {
   });
 
   factory SeasonModel.fromJson(Map<String, dynamic> json) => SeasonModel(
-        airDate: DateTime.parse(json["air_date"]),
+    airDate: json["air_date"] != null ? DateTime.parse(json["air_date"]) : null,
         episodeCount: json["episode_count"],
         id: json["id"],
         name: json["name"],
@@ -35,7 +35,7 @@ class SeasonModel extends Equatable {
 
   Map<String, dynamic> toJson() => {
         "air_date":
-            "${airDate.year.toString().padLeft(4, '0')}-${airDate.month.toString().padLeft(2, '0')}-${airDate.day.toString().padLeft(2, '0')}",
+            "${airDate?.year.toString().padLeft(4, '0')}-${airDate?.month.toString().padLeft(2, '0')}-${airDate?.day.toString().padLeft(2, '0')}",
         "episode_count": episodeCount,
         "id": id,
         "name": name,

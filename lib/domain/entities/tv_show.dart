@@ -9,21 +9,15 @@ class TvShow extends Equatable {
     required this.overview,
     required this.popularity,
     required this.posterPath,
-    required this.firstAirDate,
     required this.name,
     required this.voteAverage,
     required this.voteCount,
-    required this.originCountry,
-    required this.originalLanguage,
   });
 
   String? backdropPath;
-  String? firstAirDate;
   List<int>? genreIds;
   int? id;
   String? name;
-  List<String>? originCountry;
-  String? originalLanguage;
   String? originalName;
   String? overview;
   double? popularity;
@@ -47,11 +41,8 @@ class TvShow extends Equatable {
         overview,
         popularity,
         posterPath,
-        firstAirDate,
         name,
         voteAverage,
         voteCount,
-        originCountry,
-        originalLanguage
       ];
 }
